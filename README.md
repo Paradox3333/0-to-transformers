@@ -1,5 +1,7 @@
 # Transformers-from-Scratch
-Building Generative Pre-trained Transformers from the Ground Up
+Building Generative Pre-trained Transformers from the Ground Up.
+
+The purpose of this series is educational.
 
 ## Acknowledgements
 This reimplementation is inspired by the original work of [Andrej Karpathy](https://github.com/karpathy), specifically his project [makemore](https://github.com/karpathy/makemore).
