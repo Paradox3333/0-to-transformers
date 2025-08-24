@@ -1,7 +1,7 @@
-# Transformers-from-Scratch
+# 0-to-transformers
 Building Generative Pre-trained Transformers from the Ground Up.
 
-This series is designed for educational purposes, providing both code and detailed explanations, all contained in easy-to-run Jupyter notebook files.
+This series is designed for educational purposes, providing both code and detailed explanations, all contained in easy-to-run Jupyter notebooks.
 
 Series order:
 
